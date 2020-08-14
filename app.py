@@ -161,6 +161,7 @@ def update_item():
 
 
 
+
 # 課題３ここから追加した分
 @app.route('/choice')
 def choice():
